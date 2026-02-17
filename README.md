@@ -18,7 +18,7 @@ Plantilla base para desarrollar un sistema de monitoreo de equipos de red, con e
 
 Esta plantilla está diseñada como base para proyectos de monitoreo y gestión de redes, utilizando **HTML, CSS y JavaScript**.
 
-![Descripción de la imagen](C:/Users/Admin/Downloads/ImagenSistemaPlantilla.png)
+![Imagen de la vista de tickets dentro del sistema](/ImagenSistemaPlantilla.png)
 
 Se centra en:
 
